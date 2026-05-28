@@ -93,4 +93,4 @@ streamlit run app/streamlit_app.py
 
 ## 👤 Author
 Kunal Gupta | Data Engineer / Data Scientist
-[LinkedIn](#https://www.linkedin.com/in/kunalgupta052/) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/kunalgupta052/) | [Portfolio](#)

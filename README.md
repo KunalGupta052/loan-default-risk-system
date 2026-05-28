@@ -92,5 +92,5 @@ streamlit run app/streamlit_app.py
 ---
 
 ## 👤 Author
-**Your Name** | Data Engineer / Data Scientist
-[LinkedIn](#) | [Portfolio](#)
+Kunal Gupta | Data Engineer / Data Scientist
+[LinkedIn](#https://www.linkedin.com/in/kunalgupta052/) | [Portfolio](#)
